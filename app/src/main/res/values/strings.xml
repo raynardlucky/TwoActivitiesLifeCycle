@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Two Activities</string>
+    <string name="app_name">Two Activities Life Cycle</string>
     <string name="activity2_name">Second Activity</string>
     <string name="button_main">SEND</string>
     <string name="editText_main">Enter Your Message Here</string>

@@ -1,4 +1,4 @@
-package com.exercise.raynard.twoactivities;
+package com.exercise.raynard.twoactivitieslifecycle;
 
 import org.junit.Test;
 

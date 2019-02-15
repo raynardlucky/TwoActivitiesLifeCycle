@@ -1,4 +1,4 @@
-package com.exercise.raynard.twoactivities;
+package com.exercise.raynard.twoactivitieslifecycle;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.exercise.raynard.twoactivities", appContext.getPackageName());
+        assertEquals("com.exercise.raynard.twoactivitieslifecycle", appContext.getPackageName());
     }
 }
